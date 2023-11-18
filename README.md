@@ -27,7 +27,7 @@ What would you change if you were to continue to work on the app.
 
 Screenshots of Final Assignment 
 
-<img src = ""> 
+<img src = "https://github.com/thompln83/CPSC5340-FinalProject/blob/533ef41ff43700448fc87c62c042c79c8ddfd10e/Docs/Final%20Project%20Screen1.png"> 
 
 <img src = ""> 
 
