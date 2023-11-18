@@ -33,9 +33,7 @@ Screenshots of Final Assignment
 
 <img src = "https://github.com/thompln83/CPSC5340-FinalProject/blob/4fdc7ebbc96b202974bcb3e0f9c962adcdd2b264/Docs/Final%20Project%20Screen2.png"> 
 
-
-
-<img src = ""> 
+<img src = "https://github.com/thompln83/CPSC5340-FinalProject/blob/35c1ea033f6d449b8111fe642786ab37f9453d5b/Docs/Final%20Project%20Screen3.png"> 
 
 <img src = ""> 
 
