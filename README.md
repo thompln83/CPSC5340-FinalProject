@@ -27,10 +27,16 @@ What would you change if you were to continue to work on the app.
 
 Screenshots of Final Assignment 
 
+<img src = ""> 
 
+<img src = ""> 
+
+<img src = ""> 
+
+<img src = ""> 
 
 <img src = ""> 
 
 Project completed by: Auburn University Student for CPSC 5430 - Mobile Applications Development 2 (Fall 2023)
 
-<img src = https://github.com/thompln83/CPSC5340-FinalProject/blob/c67502057c69bd61a91a71e76d0538d55328ac01/CPSC5340-FinalProject-main/api-assignment3-thompln83/Docs/banner_au.png">
+<img src = "">
