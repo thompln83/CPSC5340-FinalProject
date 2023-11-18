@@ -39,4 +39,4 @@ Screenshots of Final Assignment
 
 Project completed by: Auburn University Student for CPSC 5430 - Mobile Applications Development 2 (Fall 2023)
 
-<img src = "">
+<img src = "https://github.com/thompln83/CPSC5340-FinalProject/blob/68ef87c609f37c689b7001dfce4f389234fa65e1/Docs/banner_au.png">
